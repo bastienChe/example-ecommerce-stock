@@ -3,7 +3,7 @@ package com.example.stock.web;
 import com.example.stock.domain.StockManager;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
+/*
 @RestController
 public class StockController {
 
@@ -25,3 +25,4 @@ public class StockController {
     }
 
 }
+*/
